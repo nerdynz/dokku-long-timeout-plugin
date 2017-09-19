@@ -1,4 +1,4 @@
-This will set the nginx `proxy_read_timeout` for your dokku app to 1000 minutes.
+This will set the nginx `proxy_read_timeout` for your dokku app to 5 minutes.
 
 ## Installation
 ```
